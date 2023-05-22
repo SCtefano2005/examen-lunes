@@ -1,0 +1,82 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "future",sans-serif;
+}
+
+
+.Hola{margin-right: 75%;}
+h1,h2{color: #ffffff;
+border-color: #000000;}
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: right;
+  align-items: right;
+  padding: 10px;
+  background:url(galaxia.jpg) no-repeat center;
+  background-size: cover;
+}
+
+  
+.waz{
+  max-width: 300px;
+  width: 50%;
+  background-color: #ffffff;
+  padding: 20px 20px;
+  border-radius: 25px;
+  
+}
+table{
+  font-size: 25px;
+  font-weight: 500;
+  position: relative;
+  
+}
+input{
+  margin-bottom: 6px;
+}
+input{
+  height: 45px;
+  width: 100%;
+  outline: none;
+  font-size: 16px;
+  border-radius: 5px;
+  padding-left: 15px;
+  border: 1px solid #000000;
+  border-bottom-width: 2px;
+}
+input{
+  border-color: #9b59b6;
+}
+table{
+  display: flex;
+  width: 100%;
+  margin: 30px 0 ;
+  justify-content: space-between;
+}
+button{
+  height: 45px;
+  margin: 35px 0
+  
+}
+button{
+  height: 100%;
+  width: 100%;
+  border-radius: 60px;
+  border: none;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  cursor: pointer;
+  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  padding-top:20px;
+  padding-bottom: 20px;
+
+  }
+  
+
+  
